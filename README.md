@@ -1,4 +1,4 @@
-# Timebom
+# Timebomb
 
 Bonus B2:L6 TimeBomb 
 Ookal was deze opdracht bonus, het leek ons leuk om hem te maken.
