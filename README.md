@@ -4,7 +4,7 @@ Bonus B2:L6 TimeBomb
 Ookal was deze opdracht bonus, het leek ons leuk om . hem te maken.
 Bij deze opdracht heb ik samen gewerkt met Sohil. We kregen een beetje hulp van Joshua
 
-
+CODE:
 
 import java.util.Timer;
 import java.util.TimerTask;
